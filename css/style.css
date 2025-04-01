@@ -412,6 +412,10 @@ body {
     flex-direction: column;
   }
 
+  .about-details-container{
+    align-items: center;
+  }
+
   .details-container{
     width: 250px;
   }
